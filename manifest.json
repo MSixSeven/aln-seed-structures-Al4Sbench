@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "role": "input",
+  "file_count": 2,
+  "format": "VASP POSCAR",
+  "coordinates_modified": false,
+  "data_license": "not specified",
+  "files": [
+    {
+      "case": "seed_unitcell",
+      "role": "input",
+      "file": "AlN_unitcell_ortho.vasp",
+      "original_relative_path": "AlN_unitcell_ortho.vasp",
+      "Al": 4,
+      "N": 4,
+      "bytes": 1263,
+      "sha256": "3ef78c584e14b35ebf76b037ae2589e7731b63b9348d26c9d98f89dbeba7767a"
+    },
+    {
+      "case": "seed_psf",
+      "role": "input",
+      "file": "AlN_psf.vasp",
+      "original_relative_path": "AlN_psf.vasp",
+      "Al": 44,
+      "N": 44,
+      "bytes": 4931,
+      "sha256": "6dfe868bcb941311ac8c69f8224e0a589270b714a9c0b8c4707f6e1c5a1c8438"
+    }
+  ]
+}
